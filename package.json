@@ -11,9 +11,13 @@
     "simple-log",
     "JSON"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergueyarellano/logger.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cuid": "^2.1.8"
+    "cuid": "2.1.8"
   }
 }
